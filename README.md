@@ -1,13 +1,14 @@
 # Digital Literacy Project
 
-**Name:** Kushagra  
+**Name:** Kushagra Nigam
+**Registration Number** 25BAI11055
 **Course:** CSE0001 – Digital Literacy  
 **University:** VIT Bhopal  
 
-## 📌 Project Overview
+##  Project Overview
 This project is part of the Digital Literacy course. It covers essential skills required to navigate the digital world safely and professionally.
 
-## 📂 Tasks
+##  Tasks
 
 ### Task 1 – Infographic
 Created using Canva explaining digital literacy concepts.
